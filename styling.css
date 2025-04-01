@@ -1,8 +1,47 @@
+@font-face {
+    font-family: 'AileronFont';
+    src: url('./Fonts/Aileron-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AileronFont';
+    src: url('./Fonts/Aileron-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
 body{
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-family: 'AileronFont', sans-serif;
+}
+.topmost_section{
+    width: 100%;
+    height: 35px;
+    color: #656565;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 720px;
+    font-size: 14px;
+}
+.right_t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.dl{
+    height: 22px;
+}
+.left_t{
+    display: flex;
+    gap: 40px;
 }
 .navbar_container{
     width: 100%;
@@ -18,7 +57,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-left: 20px;
+    padding-left: 35px;
 }
 .logo1{
     height: 30px;
@@ -64,10 +103,48 @@ body{
 .input_box{
     border: none;
     background-color: #339657;
+    outline: none;
+    color: white;
+    font-size: 16px;
 }
 .btn{
     background: white;
-    padding-inline: 36px;
+    padding-inline: 40px;
     padding-block: 12px; 
     border-radius: 40px; font-size: 15px; font-weight: 600; border: none;
+}
+.First_Section{
+    height: 200px;
+}
+.FisrtBlack_Section{
+    width: 100%;
+    background-color: #262626;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.info_txt1{
+    font-size: 30px;
+    width: 500px;
+}
+.right_info{
+    width: 500px;
+}
+.rightinfo_txt{
+    line-height: 24px;
+}
+.p-div{
+    display: flex;
+    gap: 45px;
+}
+.numb_info{
+    font-size: 22px;
+}
+.plus_g{
+    color: #04CC58;
+}
+.small_txt{
+    font-size: 12px;
+    font-style: normal;
 }

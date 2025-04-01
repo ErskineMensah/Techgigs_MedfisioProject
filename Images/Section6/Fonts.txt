@@ -1,0 +1,25 @@
+#Section2#
+Font family: Aileron;
+
+-Colors-
+background: #FFFFFF;
+
+-Green div:
+txt1: #FFFFFF;
+txt Email: #656565;
+btn: #000000;
+
+-Bottom left Txt:
+background: #656565;
+
+-Bottom right Txts:
+top txt color: #000000;
+txt info: #656565;
+HC btn bg: #339657;
+
+-Line bottom:
+border: 1px solid #A7A7A7
+
+-Txt bottom:
+ #000000
+ 

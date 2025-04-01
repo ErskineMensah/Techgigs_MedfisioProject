@@ -1,0 +1,28 @@
+#Section1# 
+Font family: Aileron;
+
+-Colors-
+
+-Top Section:
+text: #656565;
+
+-Navbar:
+Bg:#FFFFFF
+Nav bg: background: #339657;
+text: #FFFFFF & #000000
+
+-Content Left:
+Icon: #339657;
+AwardW bg: #F1F1F1;
+Email: #F1F1F1;
+EButton: #339657;
+18m Circle: #339657;
+
+
+#Section1a#
+Font Family: Aileron;
+
+-Colors-
+background: #262626;
+text: #FFFFFF;
++ color: #04CC58;

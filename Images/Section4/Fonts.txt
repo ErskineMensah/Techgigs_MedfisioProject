@@ -1,0 +1,21 @@
+#Section2#
+Font family: Aileron;
+
+-Colors-
+background: #1F1F1F;
+HP txt: #339657;
+
+-Div1:
+background: #252525;
+txt: #FFFFFF;
+
+-Div2&3:
+txt1: #FFFFFF;
+txt2: #656565;
+
+-Right Div:
+background: #252525;
+txt1: #FFFFFF;
+ptxt: #656565;
+
+

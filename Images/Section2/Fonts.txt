@@ -1,0 +1,8 @@
+#Section2#
+Font family: Aileron;
+
+-Colors-
+background: #FFFFFF;
+txt1: #000000;
+txt2: #656565;
+btn bg: #339657;

@@ -1,0 +1,12 @@
+#Section2#
+Font family: Aileron;
+
+-Colors-
+background: #EFEFEF;
+
+- Top txt: #000000;
+
+-Div:
+background: #FFFFFF;
+txt1: #000000;
+txt2: #656565;

@@ -1,0 +1,15 @@
+#Section2#
+Font family: Aileron;
+
+-Colors-
+background: #EFEFEF;
+
+-Green div: 
+background: #339657;
+fontcolor: #FFFFFF;
+
+-white divs:
+background: #FFFFFF
+fontColor1: #000000 
+fontColor2: #656565;
+

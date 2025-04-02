@@ -16,7 +16,6 @@ body{
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
     font-family: 'AileronFont', sans-serif;
 }
 .topmost_section{
@@ -121,12 +120,13 @@ body{
     background-color: #262626;
     height: 250px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+    color: white;
 }
 .info_txt1{
-    font-size: 30px;
-    width: 500px;
+    font-size: 35px;
+    width: 600px;
 }
 .right_info{
     width: 500px;
@@ -147,4 +147,45 @@ body{
 .small_txt{
     font-size: 12px;
     font-style: normal;
+}
+.second_sectionmain{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-block: 90px;
+}
+.divs_all{
+    width: 100%; display: flex; height: 550px; justify-content: center; align-items: center;
+}
+.div_1a{
+    width: 45%; height: 500px; display: flex; justify-content: start; align-items: center;
+}
+.div_1b{
+    width: 35%; height: 500px; display: flex; justify-content: start; align-items: center;
+}
+.l_pic{
+    width: 550px;
+    object-fit: contain;
+}
+.head_txt{
+    font-size: 35px;
+    width: 430px;
+}
+.p-txt{
+    font-size: 16px;
+    color: #656565; 
+    width: 485px;
+}
+.rma_btn{
+    border: none;
+    color: white;
+    background-color: #339657;
+    padding-inline: 50px;
+    padding-block: 20px;
+    border-radius: 35px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 20px;
 }
